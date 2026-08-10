@@ -76,11 +76,11 @@ Some of the insights identified from the analysis include:
 - Outlet establishment year analysis shows variation in sales performance across different years.
 - Supermarket Type1 contributes the largest share of sales among outlet types.
 
-## 📂 Project Structure
 
-```text
-Blinkit-Sales-Analysis/
-│
-├── Blinkit_Sales_Data.csv
-├── dashboard.png
-└── README.md
+
+```markdown
+## 📂 Project Files
+
+- 📊 [Blinkit Power BI Dashboard](Blinkit_Sales_Dashboard.pbix)
+- 📁 [Blinkit Dataset](Blinkit_Sales_Data.csv)
+- 🖼️ [Dashboard Preview](dashboard.png)

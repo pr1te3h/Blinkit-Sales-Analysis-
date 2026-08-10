@@ -34,7 +34,7 @@ The dashboard tracks the following major performance indicators:
 | Total Sales | $1.20M |
 | Average Sales | $141 |
 | Number of Items | 8,523 |
-| Average Rating | 4.0 |
+| Average Rating | 3.9 |
 
 ## 📈 Dashboard Features
 

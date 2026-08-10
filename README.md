@@ -4,7 +4,7 @@ An interactive Power BI dashboard designed to analyze Blinkit's sales performanc
 
 ## 📊 Dashboard Preview
 
-![Blinkit Sales Dashboard](Dashboard(2).png)
+![Blinkit Sales Dashboard](Dashboard (2).png)
 
 ## 🎯 Project Objective
 

@@ -81,7 +81,6 @@ Some of the insights identified from the analysis include:
 ```text
 Blinkit-Sales-Analysis/
 │
-├── Blinkit_Sales_Dashboard.pbix
 ├── Blinkit_Sales_Data.csv
 ├── dashboard.png
 └── README.md

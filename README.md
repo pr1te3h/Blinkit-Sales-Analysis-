@@ -81,5 +81,5 @@ Some of the insights identified from the analysis include:
 ## 📂 Project Files
 
 - 📊 [Blinkit Power BI Dashboard](Blinkit_Sales_Dashboard.pbix)
-- 📁 [Blinkit Dataset](BlinkIT Grocery Data Excel.xlsx)
+- 📁 [Blinkit Dataset](BlinkIT%20Grocery%20Data%20Excel.xlsx)
 - 🖼️ [Dashboard Preview](dashboard.png)

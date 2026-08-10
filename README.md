@@ -78,7 +78,6 @@ Some of the insights identified from the analysis include:
 
 
 
-```markdown
 ## 📂 Project Files
 
 - 📊 [Blinkit Power BI Dashboard](Blinkit_Sales_Dashboard.pbix)
